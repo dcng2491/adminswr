@@ -37746,13 +37746,13 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 240px;
+  min-height: 169px;
 }
 
 .u-header .u-text-1 {
   font-weight: 700;
   font-size: 3rem;
-  margin: 63px auto 60px 0;
+  margin: 63px auto 29px 0;
 }
 
 
@@ -37763,13 +37763,12 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 177px;
+  min-height: 120px;
 }
 
 .u-footer .u-text-1 {
   width: 417px;
-  font-size: 1.875rem;
-  margin: 49px auto 60px;
+  margin: 49px auto;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
